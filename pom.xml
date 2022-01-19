@@ -97,16 +97,10 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
+	      <id>sq</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.111.52.203:8754/nareshs/repository/amazon-release/</url>
+	      <url>http://3.110.54.171:9000</url>
 	    </repository>
-	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.111.52.203:8754/nareshs/repository/amazon-snapshot/</url>
-	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
